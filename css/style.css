@@ -1,0 +1,20 @@
+.custom-background-color{
+    background-color: #102e48;
+}
+
+.custom-h2-color{
+    color: #e27b2d;
+    font-family: "DM Serif Display", serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 2px;
+}
+
+.custom-P-color{
+    color: #e6af50;
+    font-family: "DM Serif Display", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: larger;
+    letter-spacing: 2px;
+}
