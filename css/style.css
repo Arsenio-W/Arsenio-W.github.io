@@ -18,3 +18,24 @@
     font-size: larger;
     letter-spacing: 2px;
 }
+
+.custom-background-nav{
+    background-color: #e27b2d;
+    border-color: #e27b2d;
+}
+
+.custom-brand-text{
+    color: #102e48;
+    font-family: "DM Serif Display", serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 2px;
+}
+
+.custom-nav-text{
+    color: #102e48;
+    font-family: "DM Serif Display", serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 1px;
+}
